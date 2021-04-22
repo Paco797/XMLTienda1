@@ -1,0 +1,15 @@
+nom_cliente{
+    font-weight: bolder;
+}
+direccion_cliente,cp_cliente,telf_cliente{
+    display: list-item;
+    list-style: inside;
+    margin-left: 20px;
+}
+
+producto{
+    display: list-item;
+    list-style:decimal;
+    margin-left: 25px ;
+    
+}
