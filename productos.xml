@@ -8,18 +8,21 @@
   <telf_cliente>123456789</telf_cliente> 
   <productos>
     <producto num="1">
+    <num>Producto</num>
     <id_producto>111</id_producto>
     <nom_producto>Animal Crossing: New Horizons</nom_producto>
     <tipo_caja>pequeña</tipo_caja>
     <prioridad>normal</prioridad>
     </producto>
       <producto num="2">
+      <num>Producto </num>
     <id_producto>145</id_producto>
     <nom_producto>Reloj Seiko</nom_producto>
     <tipo_caja>pequeña</tipo_caja>
     <prioridad>normal</prioridad>
     </producto>
      <producto num="2">
+     <num>Producto </num>
     <id_producto>459</id_producto>
     <nom_producto>Zapatillas Nike King</nom_producto>
     <tipo_caja>media</tipo_caja>

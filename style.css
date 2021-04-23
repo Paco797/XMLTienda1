@@ -6,6 +6,9 @@ direccion_cliente,cp_cliente,telf_cliente{
     list-style: inside;
     margin-left: 20px;
 }
+id_producto,nom_producto,tipo_caja,prioridad{
+    display: block;
+}
 
 producto{
     display: list-item;
